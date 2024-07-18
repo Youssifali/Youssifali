@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youssifali
 - 👀 I’m interested in Computer Sceince 
-- 🌱 I’m currently learning Problem Solving and Fornt-end
-- 📫 How to reach me https://www.facebook.com/yossef.ali.91
+- 🌱 I’m currently Working as a Software Tester
+- 📫 How to reach me on mail youssifali901@gmail.com
 
 <!---
 Youssifali/Youssifali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
